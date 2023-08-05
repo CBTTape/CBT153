@@ -1,0 +1,9 @@
+2023-08-06 01:25:55.291417 - Initialized conversion of CBT153
+2023-08-06 01:25:55.309895 - Received CBT.V505.FILE153.PDS from FILE153.XMI 
+2023-08-06 01:25:55.311686 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE153.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:25:55.312816 - Found @FILE153.txt (text/plain) in CBT.V505.FILE153.PDS, moved to PDS/@FILE153
+2023-08-06 01:25:55.312827 - Found C1AG0004.bin containing application/octet-stream, moved to PDS/C1AG0004
+2023-08-06 01:25:55.313874 - Found C2AG0004.bin containing application/octet-stream, moved to PDS/C2AG0004
+2023-08-06 01:25:55.314776 - Found T1AG0004.bin containing application/octet-stream, moved to PDS/T1AG0004
+2023-08-06 01:25:55.315588 - Found X1AG0004.bin containing application/octet-stream, moved to PDS/X1AG0004
+2023-08-06 01:25:55.316395 - Found X2AG0004.bin containing application/octet-stream, moved to PDS/X2AG0004
